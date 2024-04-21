@@ -1,4 +1,4 @@
-def testAdditionOfTwoNumbers(num1, num2):
+def testAdditionOfTwoNumbers(num1, num2)
     return num1 + num2
 
 
